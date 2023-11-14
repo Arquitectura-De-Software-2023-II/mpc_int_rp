@@ -1,4 +1,4 @@
-# mpc_ag_rp
+# mpc_int_rp
 
 Reverse proxy for Interface Component
 
